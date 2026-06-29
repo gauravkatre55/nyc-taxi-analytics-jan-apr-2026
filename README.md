@@ -206,7 +206,8 @@ Imported the cleaned dataset into **MySQL** and solved **35+ real-world business
 * Interactive Slicers
 * Business Recommendations
 
-
+Power Bi File Link
+https://drive.google.com/file/d/1rfq7T3r4GVVJEDgz2cm4On5iYUpTmQTF/view?usp=sharing
 ---
 
 # 📂 Project Files

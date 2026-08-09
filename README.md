@@ -10,7 +10,9 @@ The New York City Taxi industry generates millions of trips every month. This pr
 
 Starting from raw data, I cleaned and prepared the dataset using **Python**, solved real-world business questions using **MySQL**, and built an interactive **Power BI dashboard** to present insights visually.
 
----
+## 🖼️ Dashboard Preview
+
+![nyc-taxi-analytics-jan-apr-2026](Dashboard.NYC_Taxi.pdf)
 
 # 🎯 Business Objective
 

@@ -12,7 +12,7 @@ Starting from raw data, I cleaned and prepared the dataset using **Python**, sol
 
 ## 🖼️ Dashboard Preview
 
-![nyc-taxi-analytics-jan-apr-2026](Dashboard/NYC_Taxi.pdf)
+![nyc-taxi-analytics-jan-apr-2026](Dashboard/Dashboard1.png)
 
 # 🎯 Business Objective
 
